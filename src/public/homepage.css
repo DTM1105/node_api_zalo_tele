@@ -1,0 +1,11 @@
+.container {
+    margin-top: 40px;
+}
+
+.choice_app {
+    display: flex;
+    margin-bottom: 30px;
+}
+.zalo_app {
+    margin-right: 20px;
+}
